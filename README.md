@@ -1,2 +1,2 @@
 # Whatsapp Automation
-Selenium script for automating message sending using whatsapp
+Selenium script for automating message sending using whatsapp.
